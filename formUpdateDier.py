@@ -5,3 +5,4 @@
 from Dier import Dier               # omdat we OOP doen
 print("Wijzigen dier")
 
+
